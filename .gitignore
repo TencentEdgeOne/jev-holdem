@@ -1,0 +1,5 @@
+node_modules
+dist
+.edgeone
+.DS_Store
+*.local
