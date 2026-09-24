@@ -6,7 +6,6 @@
 
 [![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?from=github&template=jev-holdem)
 
-更多模板：[EdgeOne Pages](https://edgeone.ai/pages/templates)
 
 ## 概述
 
@@ -73,9 +72,6 @@ jev-holdem/
 | `AI_GATEWAY_API_KEY` | 是 | 网关 API Key |
 
 ## 了解更多
-
-- [EdgeOne Pages](https://pages.edgeone.ai/zh)
-- [EdgeOne Pages 函数](https://pages.edgeone.ai/zh/document/pages-functions-overview)
 - [Vite](https://cn.vite.dev)
 - [TypeSafe](https://typesafe.ai)
 - [TypeSafe 文档](https://docs.typesafe.ai)
