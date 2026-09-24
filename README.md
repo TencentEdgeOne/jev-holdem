@@ -6,8 +6,6 @@ Heads-up no-limit Texas hold'em against TypeSafe **Jev**. A local engine deals t
 
 [![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?from=github&template=jev-holdem)
 
-More Templates: [EdgeOne Pages](https://edgeone.ai/pages/templates)
-
 ## Overview
 
 Opening the page starts a match. You play as Hero; Jev sits across the table. Each time it is Jev's turn, the frontend posts one SystemOne request with the current table state. That decision is served by the `@makers/jev` model on EdgeOne Makers Models.
@@ -73,9 +71,6 @@ jev-holdem/
 | `AI_GATEWAY_API_KEY` | Yes | Gateway API key |
 
 ## Learn More
-
-- [EdgeOne Pages](https://pages.edgeone.ai)
-- [EdgeOne Pages Functions](https://pages.edgeone.ai/document/pages-functions-overview)
 - [Vite](https://vite.dev)
 - [TypeSafe](https://typesafe.ai)
 - [TypeSafe docs](https://docs.typesafe.ai)
